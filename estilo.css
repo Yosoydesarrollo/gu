@@ -381,15 +381,16 @@ header nav a.active {
 }
 
 p {
-    align-content: center;
-    margin-left: 33%;
-    margin-right: 33%;
+    align-content: center;    
     background-color: rgb(233, 227, 235);
-    padding-left: 23px;
-    padding-top: 3px;
+       padding-top: 3px;
     padding-bottom: 3px;
-    border: solid 2px greenyellow;
+    border: solid 2px RED;
+    border-right: solid 2PX chocolate;
+    border-left: solid 2PX goldenrod;
+    border-bottom: solid 2PX rgb(53, 51, 51);
     border-radius: 12px;
+    text-align: center;
 }
 
 h2 {
