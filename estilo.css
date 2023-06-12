@@ -217,6 +217,7 @@ header nav a.active {
     text-align: center;
     font-weight: bold;
     font-size: 22px;
+    color: red;
 }
 
 .contenedor .contenedor-items .item .boton-item {
